@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/shawnkawabe/shawnkawabe/main/readme.png"/>
+<img align="right" height="320em" src="https://raw.githubusercontent.com/shawnkawabe/shawnkawabe/main/readme.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Shawn Kawabe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnkawabe&color=yellow" alt="Profile views" /> </p>
 
@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
 
 <br><br>
 
