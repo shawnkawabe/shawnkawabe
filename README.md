@@ -43,7 +43,7 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🍙 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/shawnkawabe" target="_blank">
