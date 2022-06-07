@@ -1,6 +1,6 @@
 
 <img align="right" height="320em" src="https://raw.githubusercontent.com/shawnkawabe/shawnkawabe/main/readmeprofile.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="26px" height="26px">, I'm Shawn Kawabe</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em" height="30em">, I'm Shawn Kawabe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnkawabe&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Developer && Student in Bachelor of Computer Science 
