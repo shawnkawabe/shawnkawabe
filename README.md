@@ -5,7 +5,7 @@
 
 - 🔥 Developer && Bachelor of Computer Science 
 
-- 🔭 I’m currently working at [Nèscara](https://www.nescara.com/site/)
+- 🔭 I’m currently working at [Globant](Globant.com)
 
 - 🌱 I’m currently learning Swift
 
