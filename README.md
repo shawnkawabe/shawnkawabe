@@ -3,9 +3,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em" height="30em">, I'm Shawn Kawabe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawnkawabe&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Developer && Bachelor of Computer Science 
+- 🔥 Developer && B.S. of Computer Science 
 
-- 🔭 I’m currently working at [Globant](Globant.com)
+- 🔭 I’m currently working at [CI&T](https://ciandt.com/)
 
 - 🌱 I’m currently learning Swift
 
