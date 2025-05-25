@@ -45,7 +45,7 @@
 <a href="https://twitter.com/shawnkawabe" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-shawnkawabe-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/shawn-gonçalves-kawabe-245a0118a" target="_blank">
+<a href="https://linkedin.com/in/shawnkawabe" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-shawnkawabe-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/shawnkawabe" target="_blank">
