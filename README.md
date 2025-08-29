@@ -5,11 +5,11 @@
 
 - 🔥 Developer && B.S. of Computer Science 
 
-- 🔭 I’m currently working at [CI&T](https://ciandt.com/)
+- 🔭 I’m currently working at [Orchid Connect](https://www.orchidconnect.com/)
 
 - 🌱 I’m currently learning Swift
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Apex, Python..**
 
 
 <br><br>
